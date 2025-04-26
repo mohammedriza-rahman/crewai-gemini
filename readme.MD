@@ -1,8 +1,3 @@
-Got it, Riza!  
-I analyzed your files deeply (`main.py`, `.env`, `new-blog-post.md`) and here’s a **professional, detailed, attractive README** for your GitHub repository 🚀:
-
----
-
 # 🧠 AI-Powered Healthcare Blog Generation using CrewAI, LangChain & Gemini
 
 <div align="center">
